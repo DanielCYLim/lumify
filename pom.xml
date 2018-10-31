@@ -57,7 +57,7 @@
         <skipITs>true</skipITs>
 
         <!-- Dependency Versions -->
-        <accumulo.version>1.6.1</accumulo.version>
+        <accumulo.version>1.9.0</accumulo.version>
         <altamira.bigtable.version>0.5.0</altamira.bigtable.version>
         <miniweb.version>0.5.1</miniweb.version>
         <ant.version>1.4.1</ant.version>
