@@ -111,7 +111,7 @@
         <hamcrest.version>1.3</hamcrest.version>
         <mockito.version>1.9.5</mockito.version>
         <powermock.version>1.5.1</powermock.version>
-        <cobertura.version>2.0.3</cobertura.version>
+        <cobertura.version>2.1.1</cobertura.version>
 
         <!-- Maven Plugin Versions -->
         <plugin.buildnumber.version>1.2</plugin.buildnumber.version>
