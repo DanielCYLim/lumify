@@ -74,12 +74,12 @@
         <elasticsearch.version>1.4.4</elasticsearch.version>
         <evo.inflector.version>1.0.1</evo.inflector.version>
         <guice.version>3.0</guice.version>
-        <hadoop.version>2.5.0-cdh5.3.1</hadoop.version>
+        <hadoop.version>3.0.0</hadoop.version>
         <twill.version>0.4.0-incubating</twill.version>
         <hadoop-test.version>2.5.0-mr1-cdh5.3.1</hadoop-test.version>
         <httpcomponents.httpclient.version>4.3.1</httpcomponents.httpclient.version>
         <inflector.version>0.7.0</inflector.version>
-        <jackson.version>2.4.3</jackson.version>
+        <jackson.version>2.8.6</jackson.version>
         <jackson-mapper-asl.version>1.9.2</jackson-mapper-asl.version>
         <jetty.version>9.2.7.v20150116</jetty.version>
         <jetty.javaee.version>3.0.0.v201112011016</jetty.javaee.version>
