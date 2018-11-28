@@ -62,7 +62,7 @@
         <miniweb.version>0.5.1</miniweb.version>
         <ant.version>1.4.1</ant.version>
         <atmosphere.version>2.2.3</atmosphere.version>
-        <commons.beanutils.version>1.9.1</commons.beanutils.version>
+        <commons.beanutils.version>1.9.2</commons.beanutils.version>
         <commons.cli.version>1.2</commons.cli.version>
         <jcommander.version>1.35</jcommander.version>
         <commons.codec.version>1.8</commons.codec.version>
@@ -74,7 +74,7 @@
         <elasticsearch.version>1.4.4</elasticsearch.version>
         <evo.inflector.version>1.0.1</evo.inflector.version>
         <guice.version>3.0</guice.version>
-        <hadoop.version>2.5.0-cdh5.3.1</hadoop.version>
+        <hadoop.version>2.5.2</hadoop.version>
         <twill.version>0.4.0-incubating</twill.version>
         <hadoop-test.version>2.5.0-mr1-cdh5.3.1</hadoop-test.version>
         <httpcomponents.httpclient.version>4.3.1</httpcomponents.httpclient.version>
